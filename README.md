@@ -24,7 +24,7 @@ Projelerim ve yeni güncellemeler için takipte kalın!</div>
 <br/>  
 
 
-## My Skill Set  
+## Dil
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
