@@ -1,7 +1,5 @@
+### <div align="center">Merhaba, ben Caner Aktaş! 👋
 
-  
-
-### Merhaba, ben Caner Aktaş! 👋
 Hobi amaçlı pentest ve bug bounty çalışmaları yapıyorum. Bu süreçte geliştirdiğim bazı otomasyon araçlarını da sizlerle paylaşmak istiyorum.
 
 Projelerim ve yeni güncellemeler için takipte kalın!</div>  
