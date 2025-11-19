@@ -1,26 +1,28 @@
-### <div align="center">Merhaba, ben Caner Aktaş! 👋
+### <div align="center">Hello there! I'm Caner Aktaş 👋</div>
 
-Hobi amaçlı pentest ve bug bounty çalışmaları yapıyorum. Bu süreçte geliştirdiğim bazı otomasyon araçlarını da sizlerle paylaşmak istiyorum.
+<div align="center">
+I am a Security Researcher & Bug Hunter by hobby. I enjoy building automation tools to streamline the pentesting process and sharing them with the community here.
 
-Projelerim ve yeni güncellemeler için takipte kalın!</div>  
+Stay tuned for my projects and new updates!
+</div>  
   
 
-- 🔭 Şuan FOXss Recon aracun üzerinde geliştirme yapıyorum [Github Linki](https://github.com/caneraktas1337/foxssrecon)  
+- 🔭 I’m currently working on **FOXss Recon** tool. [View on Github](https://github.com/caneraktas1337/foxssrecon)  
   
 
-- 🌱NASA'nın başlattığı bug bounty programında bulduğum güvenlik açığı için teşekkür mektubu aldım! 🚀  
+- 🚀 Received a **Letter of Appreciation** from **NASA** for identifying a security vulnerability in their bug bounty program!  
   
 
-- ❓ Pentest ve Bug Bounty için zaman buldukça kendimi geliştirmeye çalışıyorum.  
+- 🌱 I am constantly honing my skills in **Penetration Testing** and **Bug Bounty** whenever I find the time.  
   
 
-- ⚡ Çoğunlukla kızım ve eşim ile vakit geçirmeyi seviyorum, onlar yattığı zaman ise buradayım :)  
+- ⚡ **Fun fact:** I cherish time with my wife and daughter; I usually switch to "hacker mode" once they are fast asleep :)  
   
 
 <br/>  
 
 
-## Dil
+## 🛠 Languages & Tools
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -48,7 +50,7 @@ Projelerim ve yeni güncellemeler için takipte kalın!</div>
 <br/>  
 
 
-## İletişim
+## 🔗 Connect with Me
 <div align="center">
 <a href="https://github.com/caneraktas1337" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -65,7 +67,7 @@ Projelerim ve yeni güncellemeler için takipte kalın!</div>
 <br/>  
 
 
-## Github Statü
+## 📊 GitHub Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=caneraktas1337&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
