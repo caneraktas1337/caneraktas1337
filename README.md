@@ -1,81 +1,82 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/caneraktas1337/caneraktas1337/main/assets/neon-welcome.gif" alt="Welcome to My GitHub - Neon Style" />
-</div>
+### <div align="center">Hello there! I'm Caner Aktaş 👋</div>
 
 <div align="center">
-  <p style="font-size: 1.2em; color: #00FFFF; text-shadow: 0 0 5px #00FFFF, 0 0 10px #00FFFF, 0 0 20px #00FFFF;">
-    I'm a digital explorer, a security enthusiast, and a creator in the cyber realm.
-    </p>
-    <p style="font-size: 1.1em; color: #9D00FF; text-shadow: 0 0 5px #9D00FF;">
-    Join me on a journey through code and vulnerabilities.
-  </p>
-</div>
-<br>
+I am a Security Researcher & Bug Hunter by hobby. I enjoy building automation tools to streamline the pentesting process and sharing them with the community here.
 
----
-
-### **🚀 Cyber Expeditions**
-
-- 🔭 Currently, I'm deep-diving into the core of **FOXss Recon**, crafting robust automation for vulnerability discovery. [Explore FOXss Recon](https://github.com/caneraktas1337/foxss1337)  
+Stay tuned for my projects and new updates!
+</div>  
   
 
-- 🌟 A proud moment: Received a **Letter of Appreciation from NASA** for uncovering a critical security flaw in their Bug Bounty Program!  
+- 🔭 I’m currently working on **FOXss Recon** tool. [View on Github](https://github.com/caneraktas1337/foxssrecon)  
   
 
-- 🌱 My quest for knowledge is ceaseless – constantly evolving my skills in **Penetration Testing** and **Bug Bounty Hunting**.  
+- 🚀 Received a **Letter of Appreciation** from **NASA** for identifying a security vulnerability in their bug bounty program!  
   
 
-- ⚡ When I'm not navigating the digital landscape, I'm building real-world memories with my amazing wife and daughter. The quiet hum of the keyboard often calls after they're tucked in.  
+- 🌱 I am constantly honing my skills in **Penetration Testing** and **Bug Bounty** whenever I find the time.  
   
-<br>
 
----
+- ⚡ **Fun fact:** I cherish time with my wife and daughter; I usually switch to "hacker mode" once they are fast asleep :)  
+  
 
-### **💡 My Digital Arsenal**
+<br/>  
+
+
+## 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/caneraktas1337/caneraktas1337/main/assets/neon-tools.png" alt="Languages & Tools - Neon Grid" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=4BCBC5" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-<br>
+<br/>  
 
----
 
-### **🌐 Connect in the Matrix**
+## 🔗 Connect with Me
+<div align="center">
+<a href="https://github.com/caneraktas1337" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/caneraktas_" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/caneraktas_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## 📊 GitHub Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=caneraktas1337&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
 
 <div align="center">
-  <a href="https://github.com/caneraktas1337" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/caneraktas1337" alt="GitHub" style="margin-right: 10px; margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/caneraktas_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/caneraktas_" alt="Twitter" style="margin-right: 10px; margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/caneraktas_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/caneraktas_" alt="Instagram" style="margin-bottom: 5px;" />
-  </a>
-  </div>
+<img src="https://komarev.com/ghpvc/?username=caneraktas1337&&style=flat-square" align="center" />
+</div>  
+  
 
-<br>
+<br/>  
 
----
-
-### **📈 My Digital Footprint**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caneraktas1337&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&line_height=25" alt="Caner Aktaş GitHub Stats" style="margin-bottom: 15px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caneraktas1337&theme=dark&hide_border=true&stroke=00FFFF&background=0D1117&ring=00FFFF" alt="GitHub Streak" style="margin-bottom: 15px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caneraktas1337&layout=compact&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<br>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/caneraktas1337/caneraktas1337/main/assets/visitor-count-neon.svg" alt="Profile views" />
-</div>
-
-<br>
+<div align="center"></div>
+<br />
 
 ----
-<div align="center" style="color: #666;">Crafted with passion in the digital ether.</div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
