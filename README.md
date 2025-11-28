@@ -7,7 +7,7 @@ Stay tuned for my projects and new updates!
 </div>  
   
 
-- 🔭 I’m currently working on **FOXss Recon** tool. [View on Github](https://github.com/caneraktas1337/foxssrecon)  
+- 🔭 I’m currently working on **FOXss Recon** tool. [View on Github](https://github.com/caneraktas1337/foxss)  
   
 
 - 🚀 Received a **Letter of Appreciation** from **NASA** for identifying a security vulnerability in their bug bounty program!  
